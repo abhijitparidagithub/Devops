@@ -4,6 +4,6 @@ public with sharing class Calculator {
     }
     public integer add(integer a, integer b, interger c)
     {
-        return a+b+c;
+        return a+b;
     }
 }
