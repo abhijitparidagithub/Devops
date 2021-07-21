@@ -10,8 +10,4 @@ public with sharing class Calculator {
     {
         return a+b+c;
     }
-    public integer add(integer a, integer b, interger c, interger d)
-    {
-        return a+b+c+d;
-    }
 }
